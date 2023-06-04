@@ -12,6 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AndroidLibraryExample"
-include ':app'
+rootProject.name = "TakeIfUnlessMethodsKotlinTemplate"
 include ':libraryExample'

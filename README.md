@@ -1,10 +1,6 @@
-# AndroidLibraryTemplate
+# TakeIfUnlessMethodsKotlinTemplate
 
-Simple template with two module: app and libraryExample.
-
-## App
-Simple application ready to use with Compose and Hilt.
+Simple project with one module: libraryExample.
 
 ## libraryExample
-Simple android module ready to use. Rename it if you want
-and add your own code.
+Simple library with one unit test class with four unit tests to explain the takeIf/takeUnless methods.
